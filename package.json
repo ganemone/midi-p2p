@@ -1,0 +1,14 @@
+{
+  "name": "midi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jazz-midi": "^1.7.3",
+    "jzz": "^1.0.7",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
